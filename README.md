@@ -2,7 +2,7 @@
 
 Galaosiodagi IT Centrda ustozim va sheriklarim bilan qurgan proekt.
 
-[Wwb sayt link](https://github.io/BekzodHikmatov/Password-Generator)
+[Web sayt link](https://github.io/BekzodHikmatov/Password-Generator)
 
 ## Ishlatilgan tillar 
 - HTML
